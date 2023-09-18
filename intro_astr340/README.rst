@@ -17,4 +17,5 @@ We recommend runing the following lines to create a conda environment for the cl
 
 ``mkdir data``
 
+You are welcome to make a branch if you want to play and push code. 
 ``export ASTRML_DATA=XXX``
